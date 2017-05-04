@@ -1,0 +1,17 @@
+# IDE configurations
+*.sublime-*
+.idea
+
+# Compiled output
+/dist
+
+# Temporary directories
+/tmp
+/.sass-cache
+
+# Dependencies
+/node_modules
+/bower_components
+
+npm-debug.log
+
